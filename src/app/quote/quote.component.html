@@ -9,7 +9,8 @@
     <div >
    <button  style="background-color: orange"(click)='toogleDetails(i)'>Click me!!</button>
     </div>
-
+   <button (click)="like()"> Like </button>
+   <button (click)="dislike()"> Dislike </button>
     <app-quote-details *ngIf="quote.showDescription" [quote]='quote' (isComplete)= 'deleteQuote($event,i)'></app-quote-details>
   </div>
 
