@@ -1,6 +1,8 @@
-# Quotes
-
+# Author
+## Austin Karuru
+# Description
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+# Getting Started
 
 ## Development server
 
@@ -25,3 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Check it out : <a href="https://austinkaruru.github.io/quote-ip/">quote-ip</a>
+## This project is licensed under the MIT <a href="https://github.com/austinkaruru/quote-ip/blob/master/LICENSE">License</a> Copyright (c) 2018 austinkaruru
