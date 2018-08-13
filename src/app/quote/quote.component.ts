@@ -13,7 +13,7 @@ export class QuoteComponent implements OnInit {
     new Quote(2, 'There', 'Give', new Date(2012, 6, 9) ),
     new Quote(3, 'you', 'Up', new Date(2017, 0, 18)),
     new Quote(4, 'very', 'In', new Date(2014, 2, 14)),
-    new Quote(5, 'stupid', 'Life', new Date(2015, 2, 14)),
+    new Quote(5, 'clever', 'Life', new Date(2015, 2, 14)),
     new Quote(6, 'Guy', '..', new Date(2017, 3, 14)),*/
 
   ];
@@ -25,6 +25,12 @@ export class QuoteComponent implements OnInit {
       if (toDelete) {this.quotes.splice(index, 1);
     }
     }
+  }
+  like() {
+    alert('You have liked this quote');
+  }
+  dislike() {
+    alert('You have Disliked this quote');
   }
    toogleDetails(index) {
       this.quotes[index].showDescription = !this.quotes[index].showDescription;
