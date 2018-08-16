@@ -18,6 +18,6 @@
 # N.B
 #### The app is yet to be complete. Any useful advice would be greatly appreciated. Email me @karuruaustine@gmail.com 
 ## Further help
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## Check it out : <a href="https://austinkaruru.github.io/quote-ip/">quote-ip</a>
 ## This project is licensed under the MIT <a href="https://github.com/austinkaruru/quote-ip/blob/master/LICENSE">License</a> Copyright (c) 2018 <a href="https://github.com/austinkaruru">austinkaruru</a>
