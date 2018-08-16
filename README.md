@@ -5,7 +5,7 @@
 #### This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
 # Tools used To Develop
-##### Angular Js
+##### Angular 6
 ##### Bootstrap 4
 ##### HTML
 ##### CSS
