@@ -11,8 +11,8 @@
 ##### CSS
 
 # Requirements for Running
-### Internet connection
-### 
+### <li>Internet connection</li>
+### <li> Copy of the Project on your local machine </li>
 # How to get a live server of the application running
 #### Run `ng serve` for a live server in your Terminal. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 # N.B
